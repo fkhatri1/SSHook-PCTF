@@ -3,8 +3,8 @@ import swpag_client
 import os
 import time
 
-GAME_URL = 'http://52.52.83.248'    # Team interface
-FLAG_TOKEN = '6rykmdB99cYyrCcOqJv2'  # Must keep this token secret. Anyone with this token can log in as team.
+GAME_URL = 'http://xxx.xxx.xxx.xxx'    # Team interface
+FLAG_TOKEN = ''  # Must keep this token secret. Anyone with this token can log in as team.
 
 TARGET_DIR = "/home/ctf/targets"
 
